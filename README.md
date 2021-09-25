@@ -5,4 +5,4 @@ How to build a funnel in Python
 * How users can get started with the project: Just use the ready-made code.
 * Where users can get help with your project: FB
 * Who maintains and contributes to the project: Education platform Skillbox
-* Links to the files, wich i use in the project: 1) data_set https://drive.google.com/file/d/1QJCyDZAQowgRYzNJ22U8lUq2WR3dFy5K/view?usp=sharing , 2) на используемый код https://drive.google.com/file/d/1dNpZxVkvwqN_eAue59PKFjNd-llu-moO/view?usp=sharing , 3) на проект в Google Colab https://colab.research.google.com/drive/1y-gv2jgZUYSpRsI3stzvADozz047DH_M?usp=sharing .
+* Links to the files, wich i use in the project: 1) data_set https://drive.google.com/file/d/1QJCyDZAQowgRYzNJ22U8lUq2WR3dFy5K/view?usp=sharing , 2) code https://drive.google.com/file/d/1dNpZxVkvwqN_eAue59PKFjNd-llu-moO/view?usp=sharing
